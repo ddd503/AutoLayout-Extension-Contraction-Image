@@ -32,32 +32,58 @@
                                                 </constraints>
                                             </view>
                                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" scrollEnabled="NO" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="y5G-pT-lw5">
-                                                <rect key="frame" x="20" y="270" width="335" height="567.5"/>
+                                                <rect key="frame" x="20" y="326.5" width="335" height="1036.5"/>
                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                <mutableString key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</mutableString>
-                                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                                <mutableString key="text">以下ウィキペディア引用
+
+鵠沼海岸は、神奈川県藤沢市の町名。現行行政町名は鵠沼海岸一丁目から鵠沼海岸七丁目。住居表示実施済み区域[5]。郵便番号は251-0037（藤沢郵便局管区）。
+かつては、鵠沼地区の相模湾に面する海岸部という意味の地名であった。狭義には、1964年（昭和39年）および1965年（昭和40年）に実施した住居表示により、小田急江ノ島線以南の地域を指す。
+日本のサーフィン、ビーチバレーをはじめ、多くのビーチスポーツの発祥の地と自称している。
+
+地理
+東に江の島、西に富士山を望む海岸で、幅100〜150mの広大な砂浜が続いている。鵠沼運動公園、湘南海岸公園、鵠沼海浜公園、片瀬西浜・鵠沼海水浴場がある。
+小田急江ノ島線鵠沼海岸駅が最寄である。
+
+地名と範囲
+「鵠沼海岸」の地名は新旧2段階がある。
+江戸時代までは鵠沼の海岸部は完全な無人地帯だったので、地曳き網の漁場だった浜辺を鰯干場（ヤシバ）と呼んでいた記録がある程度である。
+1886年（明治19年）に「鵠沼海岸海水浴場」が開設された。これが「鵠沼海岸」の地名が使われた最初の例である。ほどなく現在の鵠沼松が岡を中心に「鵠沼海岸別荘地」が開発され、分譲された。この分譲地は鵠沼藤が谷の南部までを含む。北端は1902年（明治35年）に開通する江ノ島電鉄鵠沼駅付近までで、ここから浜辺までを鵠沼海岸と呼ぶようになった。
+1929年（昭和4年）、小田急江ノ島線が開通し、鵠沼海岸駅が開業すると、駅から徒歩圏内が鵠沼海岸と認識されるようになった
+1940年（昭和15年）藤沢市制が敷かれた頃、町内会制度が整備され、鵠沼海岸駅東側を通る通称「学園通り」以西を「鵠沼西海岸」、以東を「海岸通り」の「藤ヶ谷橋（現在は暗渠化）」を境にして北側を「鵠沼東海岸」、南側を「鵠沼南海岸」、と呼び、商店街の組合や警防団組織も分かれていた。
+この段階までの鵠沼海岸とは「本村」に対する鵠沼の「新開地」というような意味を持っていた。
+藤沢市は、1964年（昭和39年）8月1日に鵠沼海岸1 - 4丁目の、1965年（昭和40年）10月1日に鵠沼海岸5 - 7丁目の住居表示を実施した。これにより、小田急江ノ島線を境界として、浜辺までを鵠沼海岸と呼ぶことになった。1 - 4丁目は文字通り海岸部で、かつての鵠沼海岸の南部に当たり、5 - 7丁目は大庭御厨以来の伝統を持つ地域に当たる。</mutableString>
+                                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                                             </textView>
                                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" image="sunset" translatesAutoresizingMaskIntoConstraints="NO" id="duK-Yc-k8l">
                                                 <rect key="frame" x="0.0" y="0.0" width="375" height="250"/>
                                             </imageView>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="鵠沼海岸(くげぬまかいがん)" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yxI-3h-QvK">
+                                                <rect key="frame" x="20" y="280" width="335" height="26.5"/>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="22"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
                                         </subviews>
                                         <constraints>
+                                            <constraint firstItem="yxI-3h-QvK" firstAttribute="leading" secondItem="yF8-i5-wyT" secondAttribute="leading" constant="20" id="19z-Pf-nVa"/>
+                                            <constraint firstItem="y5G-pT-lw5" firstAttribute="top" secondItem="yxI-3h-QvK" secondAttribute="bottom" constant="20" id="Ckf-SD-XBY"/>
                                             <constraint firstAttribute="trailing" secondItem="y5G-pT-lw5" secondAttribute="trailing" constant="20" id="H02-YJ-7IQ"/>
                                             <constraint firstItem="jmT-TU-GOg" firstAttribute="leading" secondItem="yF8-i5-wyT" secondAttribute="leading" id="KIg-3t-Gbi"/>
                                             <constraint firstItem="duK-Yc-k8l" firstAttribute="leading" secondItem="jmT-TU-GOg" secondAttribute="leading" id="Qgh-oF-SCz"/>
                                             <constraint firstItem="duK-Yc-k8l" firstAttribute="trailing" secondItem="jmT-TU-GOg" secondAttribute="trailing" id="VhL-dc-otj"/>
                                             <constraint firstAttribute="trailing" secondItem="jmT-TU-GOg" secondAttribute="trailing" id="baR-9H-NwN"/>
-                                            <constraint firstItem="y5G-pT-lw5" firstAttribute="top" secondItem="jmT-TU-GOg" secondAttribute="bottom" constant="20" id="bax-lE-Bos"/>
+                                            <constraint firstAttribute="trailing" secondItem="yxI-3h-QvK" secondAttribute="trailing" constant="20" id="hb4-ZS-oyf"/>
                                             <constraint firstItem="jmT-TU-GOg" firstAttribute="top" secondItem="yF8-i5-wyT" secondAttribute="top" id="nst-Hf-7Eq"/>
                                             <constraint firstAttribute="bottom" secondItem="y5G-pT-lw5" secondAttribute="bottom" constant="20" id="q9d-rD-w1g"/>
+                                            <constraint firstItem="yxI-3h-QvK" firstAttribute="top" secondItem="jmT-TU-GOg" secondAttribute="bottom" constant="30" id="sAV-Yh-ktw"/>
                                             <constraint firstItem="duK-Yc-k8l" firstAttribute="bottom" secondItem="jmT-TU-GOg" secondAttribute="bottom" id="uaA-rl-gOY"/>
                                             <constraint firstItem="y5G-pT-lw5" firstAttribute="leading" secondItem="yF8-i5-wyT" secondAttribute="leading" constant="20" id="vEW-2X-QPk"/>
                                             <constraint firstItem="duK-Yc-k8l" firstAttribute="height" relation="greaterThanOrEqual" secondItem="jmT-TU-GOg" secondAttribute="height" id="xI5-Ak-b2l"/>
                                         </constraints>
                                     </scrollView>
                                 </subviews>
-                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
                                     <constraint firstItem="yF8-i5-wyT" firstAttribute="top" secondItem="Oyb-Fp-eTE" secondAttribute="top" id="0bV-hc-AkC"/>
                                     <constraint firstAttribute="trailing" secondItem="yF8-i5-wyT" secondAttribute="trailing" id="1zF-Op-vG7"/>
