@@ -10,13 +10,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var scrollView: UIScrollView!
-
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // statusbar分のcontentsizeの上部スペースを埋める対応
-//        scrollView.contentInsetAdjustmentBehavior = .never
-
+    override var preferredStatusBarStyle: UIStatusBarStyle {
+        return .lightContent
     }
 
 }
